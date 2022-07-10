@@ -1,0 +1,13 @@
+D:\Code\Project 1.0\Note Mini - Console + WinForms\bin\Debug\Note Mini - Console + WinForms.exe.config
+D:\Code\Project 1.0\Note Mini - Console + WinForms\bin\Debug\Note Mini - Console + WinForms.exe
+D:\Code\Project 1.0\Note Mini - Console + WinForms\bin\Debug\Note Mini - Console + WinForms.pdb
+D:\Code\Project 1.0\Note Mini - Console + WinForms\obj\Debug\Note Mini - Console + WinForms.csproj.AssemblyReference.cache
+D:\Code\Project 1.0\Note Mini - Console + WinForms\obj\Debug\Note Mini - Console + WinForms.csproj.SuggestedBindingRedirects.cache
+D:\Code\Project 1.0\Note Mini - Console + WinForms\obj\Debug\Note_Mini___Console___WinForms.Login_SignIn.Login_N_Sign.resources
+D:\Code\Project 1.0\Note Mini - Console + WinForms\obj\Debug\Note_Mini___Console___WinForms.LoginForm.resources
+D:\Code\Project 1.0\Note Mini - Console + WinForms\obj\Debug\Note_Mini___Console___WinForms.Properties.Resources.resources
+D:\Code\Project 1.0\Note Mini - Console + WinForms\obj\Debug\Note Mini - Console + WinForms.csproj.GenerateResource.cache
+D:\Code\Project 1.0\Note Mini - Console + WinForms\obj\Debug\Note Mini - Console + WinForms.csproj.CoreCompileInputs.cache
+D:\Code\Project 1.0\Note Mini - Console + WinForms\obj\Debug\Note Mini - Console + WinForms.exe
+D:\Code\Project 1.0\Note Mini - Console + WinForms\obj\Debug\Note Mini - Console + WinForms.pdb
+D:\Code\Project 1.0\Note Mini - Console + WinForms\obj\Debug\Note_Mini___Console___WinForms.Login_SignIn.SignUp.resources
