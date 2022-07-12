@@ -19,6 +19,7 @@ namespace Note_Mini___Console___WinForms.Login_SignIn
 
         //instansiasi form. 
         LoginForm Loginfrm = new LoginForm();
+        SignUp Signform = new SignUp(); 
 
         private void Button_Login_Click(object sender, EventArgs e)
         {
@@ -32,6 +33,17 @@ namespace Note_Mini___Console___WinForms.Login_SignIn
             Loginfrm.BringToFront();
             Hide();
             
+        }
+
+        private void ButtonSign_Up_Click(object sender, EventArgs e)
+        {
+            if (Signform == null || Signform.IsDisposed)
+            {
+                Signform = new SignUp();
+            }
+
+            Signform.Show();
+            Signform.BringToFront();
         }
     }
 }

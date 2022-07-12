@@ -56,6 +56,7 @@
             this.ButtonSign_Up.TabIndex = 1;
             this.ButtonSign_Up.Text = "Sign Up";
             this.ButtonSign_Up.UseVisualStyleBackColor = true;
+            this.ButtonSign_Up.Click += new System.EventHandler(this.ButtonSign_Up_Click);
             // 
             // pictureBox1
             // 
